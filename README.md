@@ -1,6 +1,6 @@
 # Exno-3-Prompt-Engg
-## Name: Aishwarya S
-## Reg No: 212222100003
+## Name: Aashika Parveen M R
+## Reg No: 212223060002
 # Ex.No: 3 	
 Scenario-Based Report Development Utilizing Diverse Prompting Techniques
 
